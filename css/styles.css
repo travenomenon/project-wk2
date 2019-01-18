@@ -1,3 +1,14 @@
 h1 {
   text-align: center;
+
+}
+
+#ruby, #php, #cSharp {
+  display: none;
+
+}
+
+.btn {
+  display: block;
+
 }
