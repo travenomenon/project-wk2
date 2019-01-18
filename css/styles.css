@@ -1,14 +1,37 @@
+body {
+  background-color: #B0E3DD;
+}
+
 h1 {
   text-align: center;
 
 }
 
+form {
+margin-top: 20px;}
+
+h2 {
+  font-size: 20px;
+}
+
 #ruby, #php, #cSharp {
   display: none;
+  background-color: white;
+  border-radius: 8px;
 
 }
 
 .btn {
-  display: block;
+  color: white;
+  display: inline-block;
+  background-color: #0B8E7D;
+  border-radius: 8px;
 
+}
+
+img {
+  float: left;
+  height: 50px;
+  width: 50px;
+  padding: 10px;
 }
